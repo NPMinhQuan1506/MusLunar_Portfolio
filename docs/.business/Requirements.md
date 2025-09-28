@@ -112,7 +112,6 @@
 
 # I. Requirements for project results
 
-
 ---
 
 ## 1. Project Vision & Goals
@@ -167,6 +166,17 @@
 - Multi-language (EN/VI/JP…)
 - AI chatbot/agent: guide, Q&A, extra story
 
+### j. Admin / Settings Page
+
+- **Functions:**
+    - Secure admin login and authentication
+    - Update personal information, avatar, and content for home, story, projects, blog, and shop without coding (CMS-lite)
+    - Manage, update, approve, and delete: projects, blog posts, shop products, themes, languages, chatbot data, etc.
+    - Customize theme/universe, view analytics, and export data
+
+- **Purpose:**
+    - Empower the owner to easily control and update the entire portfolio via a user-friendly dashboard (without touching code), ensuring long-term maintainability and scalability.
+
 ---
 
 ## 3. Workflow & Style
@@ -197,6 +207,10 @@
 - [ ] Smooth, engaging animation
 - [ ] Responsive, SEO, a11y
 
+- [ ] Admin/Settings Page (secure login, live content/config management)
+- [ ] Easy update for profile, projects, blog, shop, themes, chatbot data, etc.
+- [ ] CMS-lite capabilities (add/edit/delete without coding)
+
 ---
 
 ## 5. Optional / Nice-to-have
@@ -213,5 +227,8 @@
 - As a **client**, I want to browse impactful projects and contact/order services easily.
 - As a **visitor**, I want to explore the journey, get inspired, and connect.
 - As a **design fan**, I want to see artworks and buy unique handmade goods.
+
+- As an **admin/owner**, I want to log in and update my portfolio’s content, projects, blog posts, and shop items through an easy-to-use dashboard so that I can keep my site fresh and relevant without redeploying code.
+- As an **admin/owner**, I want to change the look & feel, enable/disable features, or view site analytics in real time so I can adapt the portfolio to new needs.
 
 ---

@@ -36,7 +36,11 @@
 - Responsive design, SEO, accessibility
 - All visual assets (avatars, icons, banners, project images)
 - Prepare story scripts and branching content
-
+- **Admin / Settings Page (CMS-lite):**  
+  - Secure login/dashboard  
+  - CRUD for all content (profile, projects, blog, shop, etc.)  
+  - Live site configuration (themes, language, chatbot, etc.)  
+  - Analytics and stats (optional)
 ---
 
 #### **Sprint 1: MVP Delivery**
@@ -61,6 +65,22 @@ _Timeline: 11/11/2025 – 27/03/2026_
 - Continue working through the remaining backlog items, ongoing review and optimization
 - Optimize, bugfix, and expand documentation
 - Prepare for launch, collect user feedback, iterate & update
+
+---
+
+### Sprint 3: Admin/Config Page (CMS-lite, Content/Settings Management)
+
+- **Timeline:** 28/03/2026 – 30/04/2026
+
+- **Goal:**  
+  Build a secure admin dashboard for easy content and settings management (profile, projects, blog, shop, themes, chatbot data, etc.)
+
+- **Deliverables:**
+    - Admin login/authentication page
+    - Dashboard UI
+    - CRUD functionality for all main content (profile, projects, blog posts, shop items, etc.)
+    - Live site configuration (themes, chatbot, language, etc.)
+    - Analytics/usage stats (optional)
 
 ---
 
@@ -92,7 +112,8 @@ flowchart TD
 | Design/Asset Prep  | 15/10/2025   | Figma prototype, visual assets, theme guide                            | Designer   |
 | MVP Release        | 10/11/2025   | Animated intro, role select, dual home, timeline (basic), contact      | Dev/Des    |
 | Full Feature       | 27/03/2026   | All role branches, project detail, shop, blog, multi-theme/lang, AI chatbot | Dev/Des    |
-| Public Launch      | 28/03/2026   | Live, announce, collect feedback                                       | All        |
+| **Admin/Config Page** | **30/04/2026** | **Admin dashboard (CMS-lite), content/settings management** | **Dev**    |
+| Public Launch      | 01/05/2026   | Live, announce, collect feedback                                       | All        |
 
 ---
 
@@ -116,7 +137,16 @@ flowchart TD
 - [ ] Setup SEO, analytics, deploy to Vercel/Netlify
 - [ ] Launch & announce on social channels
 - [ ] Collect feedback, iterate, update
+...
 
+- [ ] Design and build **Admin / Settings Page**:
+    - [ ] Secure admin login/authentication
+    - [ ] Create dashboard UI for managing site content and settings
+    - [ ] CRUD for profile, projects, blog posts, shop items
+    - [ ] Theme/universe and language configuration management
+    - [ ] Update chatbot/AI agent content
+    - [ ] Analytics/stats display (optional)
+    - [ ] Test admin functions for security and usability
 ---
 
 ## 5. Workflow / Responsibility
