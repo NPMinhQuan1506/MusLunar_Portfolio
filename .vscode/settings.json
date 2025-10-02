@@ -1,0 +1,6 @@
+{
+    "chatgpt.openOnStartup":  true,
+    "chatgpt.commentCodeLensEnabled":  true,
+    "workbench.sideBar.location":  "left",
+    "workbench.views.enableSecondarySideBar":  true
+}
