@@ -1,0 +1,42 @@
+{
+  "name": "muslunar-commit-gen",
+  "displayName": "MusLunar Commit Generator",
+  "description": "Add a Generate Commit Message button in the SCM input box that suggests a message based on current changes.",
+  "version": "0.0.1",
+  "publisher": "muslunar",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:generateCommitMessage.generate"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "generateCommitMessage.generate",
+        "title": "Generate Commit Message",
+        "shortTitle": "Commit",
+        "category": "MusLunar"
+      }
+    ],
+    "menus": {
+      "scm/inputBox": [
+        {
+          "command": "generateCommitMessage.generate",
+          "group": "inline@1",
+          "when": "scmProvider == git",
+          "icon": "$(wand)"
+        }
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/muslunar-portfolio"
+  },
+  "license": "MIT"
+}
