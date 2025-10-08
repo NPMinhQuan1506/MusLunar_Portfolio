@@ -76,11 +76,24 @@ See [Planning.md](./docs/.business/Planning.md) for details.
 
 ## 📄 Documentation
 
+### 📘 Business & Requirement
 - [Planning.md](./docs/.business/Planning.md)
 - [Requirements.md](./docs/.business/Requirements.md)
 - [Role_based_ux.md](./docs/.business/Role_based_ux.md)
+
+### 🧠 Agile & Scrum
+- [Agile_Overview.md](./docs/.agileScrum/Agile_Overview.md)
+- [ProjectCharter.md](./docs/.agileScrum/ProjectCharter.md)
+- [Definition_of_Ready.md](./docs/.agileScrum/Definition_of_Ready.md)
+- [Definition_of_Done.md](./docs/.agileScrum/Definition_of_Done.md)
+- [RTM.md](./docs/.agileScrum/RTM.md)
+- [KPIs_Summary.md](./docs/.agileScrum/KPIs_Summary.md)
+
+### 🧩 Technical
 - [Design.md](./docs/.technical/Design.md)
 - [Deployment.md](./docs/.technical/Deployment.md)
+
+### 💬 General
 - [FAQ.md](./docs/FAQ.md)
 
 ---
