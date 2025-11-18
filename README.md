@@ -44,8 +44,8 @@ A gamified, story-driven, and fully personalized portfolio website for [Quan Ngu
 
 ## 📅 Timeline & Planning
 
-- **Kick-off:** 27/09/2025
-- **MVP Release:** 10/11/2025
+- **Kick-off:** 15/10/2025
+- **MVP Release:** 15/12/2025
 - **Full Release:** 27/03/2026
 
 See [Planning.md](./docs/.business/Planning.md) for details.

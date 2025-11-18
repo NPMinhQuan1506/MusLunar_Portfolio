@@ -6,7 +6,7 @@
 
 **Method:** Agile mini-Scrum + Kanban  
 **Team:** 1 developer, 1 designer  
-**Start:** 27/09/2025
+**Start:** 15/10/2025
 
 ---
 
@@ -45,7 +45,7 @@
 
 #### **Sprint 1: MVP Delivery**
 
-_Timeline: 27/09/2025 – 10/11/2025_
+_Timeline: 15/10/2025 – 15/12/2025_
 
 - **Goal:** Deliver MVP with all core features  
   (Animated intro, role selector, dual home, basic timeline, contact page)
@@ -58,7 +58,7 @@ _Timeline: 27/09/2025 – 10/11/2025_
 
 #### **Sprint 2: Full Feature & Polish**
 
-_Timeline: 11/11/2025 – 27/03/2026_
+_Timeline: 16/12/2025 – 27/03/2026_
 
 - **Goal:** Complete all advanced features and polish UI/UX  
   (Full role branching, advanced timeline, shop, blog, multi-theme, multi-language, advanced animation, AI chatbot)
@@ -108,9 +108,9 @@ flowchart TD
 
 | Stage              | Target Date   | Deliverables                                                           | Owner      |
 |--------------------|--------------|------------------------------------------------------------------------|------------|
-| Kick-off/Planning  | 27/09/2025   | Requirements.md, userflow, workflow, wireframe                         | All        |
+| Kick-off/Planning  | 15/10/2025   | Requirements.md, userflow, workflow, wireframe                         | All        |
 | Design/Asset Prep  | 15/10/2025   | Figma prototype, visual assets, theme guide                            | Designer   |
-| MVP Release        | 10/11/2025   | Animated intro, role select, dual home, timeline (basic), contact      | Dev/Des    |
+| MVP Release        | 15/12/2025   | Animated intro, role select, dual home, timeline (basic), contact      | Dev/Des    |
 | Full Feature       | 27/03/2026   | All role branches, project detail, shop, blog, multi-theme/lang, AI chatbot | Dev/Des    |
 | **Admin/Config Page** | **30/04/2026** | **Admin dashboard (CMS-lite), content/settings management** | **Dev**    |
 | Public Launch      | 01/05/2026   | Live, announce, collect feedback                                       | All        |

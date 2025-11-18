@@ -11,7 +11,7 @@
 - **Ultimate goal:** Impress and convert viewers (recruiters, clients, peers) by clearly communicating who we are, what we do, and why it matters.
 - **Why it matters:** Direct impact on income growth, career trajectory, and long-term happiness.
 - **Success metrics:** Unique visitors; engagement rate (time on site, interactions); shares and referrals; first freelance contract worth ~20M VND; inbound interview requests.
-- **Timeline:** Kick-off 27/09/2025; MVP online 10/11/2025; full feature set 27/03/2026; public launch 28/03/2026; admin suite by 30/04/2026.
+- **Timeline:** Kick-off 15/10/2025; MVP online 15/12/2025; full feature set 27/03/2026; public launch 28/03/2026; admin suite by 30/04/2026.
 - **Who notices success:** Family, community, recruiters, clients, creative peers.
 
 ### 1.3 Motivation and Values
@@ -24,7 +24,7 @@
 - **Time investment:** ~9 hours per week (weeknights and weekends).
 - **Financial investment:** 3M VND per year with intent to grow revenue to cover costs.
 - **Support system:** 1 developer, 1 designer, AI tools, online communities.
-- **Start date:** 27/09/2025 with self-imposed accountability (50K VND penalty per missed day).
+- **Start date:** 15/10/2025 with self-imposed accountability (50K VND penalty per missed day).
 - **Feasibility:** 60% resource confidence but high determination to close gaps.
 
 ### 1.5 Long-term Impact
