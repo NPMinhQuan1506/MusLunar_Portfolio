@@ -45,7 +45,7 @@
 
 #### **Sprint 1: MVP Delivery**
 
-_Timeline: 15/10/2025 – 15/12/2025_
+_Timeline: 19/11/2025 – 31/12/2025_
 
 - **Goal:** Deliver MVP with all core features  
   (Animated intro, role selector, dual home, basic timeline, contact page)
@@ -58,7 +58,7 @@ _Timeline: 15/10/2025 – 15/12/2025_
 
 #### **Sprint 2: Full Feature & Polish**
 
-_Timeline: 16/12/2025 – 27/03/2026_
+_Timeline: 01/01/2026 – 15/04/2026_
 
 - **Goal:** Complete all advanced features and polish UI/UX  
   (Full role branching, advanced timeline, shop, blog, multi-theme, multi-language, advanced animation, AI chatbot)
@@ -70,7 +70,7 @@ _Timeline: 16/12/2025 – 27/03/2026_
 
 ### Sprint 3: Admin/Config Page (CMS-lite, Content/Settings Management)
 
-- **Timeline:** 28/03/2026 – 30/04/2026
+- **Timeline:** 16/04/2026 – 15/06/2026
 
 - **Goal:**  
   Build a secure admin dashboard for easy content and settings management (profile, projects, blog, shop, themes, chatbot data, etc.)
@@ -108,12 +108,12 @@ flowchart TD
 
 | Stage              | Target Date   | Deliverables                                                           | Owner      |
 |--------------------|--------------|------------------------------------------------------------------------|------------|
-| Kick-off/Planning  | 15/10/2025   | Requirements.md, userflow, workflow, wireframe                         | All        |
-| Design/Asset Prep  | 15/10/2025   | Figma prototype, visual assets, theme guide                            | Designer   |
-| MVP Release        | 15/12/2025   | Animated intro, role select, dual home, timeline (basic), contact      | Dev/Des    |
-| Full Feature       | 27/03/2026   | All role branches, project detail, shop, blog, multi-theme/lang, AI chatbot | Dev/Des    |
-| **Admin/Config Page** | **30/04/2026** | **Admin dashboard (CMS-lite), content/settings management** | **Dev**    |
-| Public Launch      | 01/05/2026   | Live, announce, collect feedback                                       | All        |
+| Kick-off/Planning  | 29/11/2025   | Requirements.md, userflow, workflow, wireframe                         | All        |
+| Design/Asset Prep  | 30/11/2025   | Figma prototype, visual assets, theme guide                            | Designer   |
+| MVP Release        | 14/12/2025   | Animated intro, role select, dual home, timeline (basic), contact      | Dev/Des    |
+| Full Feature       | 15/04/2026   | All role branches, project detail, shop, blog, multi-theme/lang, AI chatbot | Dev/Des    |
+| **Admin/Config Page** | **15/06/2026** | **Admin dashboard (CMS-lite), content/settings management** | **Dev**    |
+| Public Launch      | 22/06/2026   | Live, announce, collect feedback                                       | All        |
 
 ---
 

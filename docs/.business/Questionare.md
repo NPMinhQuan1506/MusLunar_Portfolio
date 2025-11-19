@@ -92,7 +92,7 @@
 
   (When do I want to achieve this goal?)
 
-  * 1.5 months to build the website with basic functions and deploy it successfully (Due date: 30/10/2025), next 3.5 months to complete full app features (20/03/2025)
+  * 1.5 months to build the website with basic functions and deploy it successfully (Due date: 31/12/2025), next 3.5 months to complete full app features (15/04/2026)
 
 * **Who will notice if I succeed?**
 
@@ -180,7 +180,7 @@
 
   (How much time, effort, and resources can I devote?)
 
-  * About 9 hours per week, fixed: 9PM–10PM (Mon–Fri) and 12PM–2PM (Sat & Sun). Weekdays after regular work (average energy), weekends with higher energy. Financial resources: 3 million VND/year, but I need to earn more to cover this cost
+  * About 9 hours per week, fixed: 9PM–10PM (Mon–Fri) and 12PM–2PM (Sat & Sun). Weekdays after regular work (average energy), weekends with higher energy. Financial resources: 3 million VND/year + 520,000 for each month to pay AI Agent, but I need to earn more to cover this cost
 
 * **What skills or support do I need?**
 
@@ -198,7 +198,7 @@
 
   (When will I start, and how will I maintain consistency?)
 
-  * From 21/09/2025, commit to the schedule, with a penalty of 50,000 VND for each missed day
+  * From 19/11/2025, commit to the schedule, with a penalty of 50,000 VND for each missed day and multiple by the number of consecutive days.
 
 ### **Yes/No Questions**
 
@@ -268,7 +268,7 @@
 
   (Do the long-term benefits outweigh the costs/risks?)
 
-  * Costs are 3–5 million/year, 9h/week = 432h/year → opportunity cost is 60–86 million
+  * Costs are 9-11 million/year, 9h/week = 432h/year → opportunity cost is 60–86 million
 
 ---
 
@@ -277,12 +277,13 @@
 ### **Actual Costs**
 
 * **Hosting, domain, services:** 3–5 million VND/year (fixed, mandatory costs for a professional portfolio)
+* **AI Agent service:** 6 - 8 million VND/year
 * **Time investment:** 9h/week × 48 weeks ≈ **432h/year**
   → **Opportunity cost:** \~60–86 million (depending on how you value your time)
 
 #### **Total cost/year:**
 
-* Cash: **3–5 million**
+* Cash: **9–11 million**
 * Time converted to money: **60–86 million**
 * **Actual total investment:** \~63–91 million/year
 
@@ -354,7 +355,7 @@
 #### **C. “Failure” Scenario**
 
 * No new jobs, no freelance work, only new skills/experience gained
-* Lost 3–5 million + opportunity cost
+* Lost 9–11 million + opportunity cost
 * But can still use the experience and reinvest next year
 
 ---

@@ -1,10 +1,10 @@
 # MusLunar Portfolio
 
-A gamified, story-driven, and fully personalized portfolio website for [Quan Nguyen] & [Nguyet Nguyen] â€? built to impress, inspire, and connect.
+A gamified, story-driven, and fully personalized portfolio website for [Quan Nguyen] & [Nguyet Nguyen] built to impress, inspire, and connect.
 
 ---
 
-## âœ¨ Purpose
+## Purpose
 
 - Showcase both developer (logic, product mindset) & designer (creativity, visual art) as **dual protagonists**
 - Attract recruiters, clients, and like-minded peers through interactive storytelling and advanced UI/UX
@@ -12,10 +12,10 @@ A gamified, story-driven, and fully personalized portfolio website for [Quan Ngu
 
 ---
 
-## §­ User Journey Highlights
+## User Journey Highlights
 
 - **Animated intro** with micro-story: invites users to choose their role (`Recruiter`, `Client`, `Visitor`)
-- **Home:** Dual-character design â€? drag to focus on Quan (tech/logic) or Nguyet (art/design), or blend both
+- **Home:** Dual-character design? drag to focus on Quan (tech/logic) or Nguyet (art/design), or blend both
 - **Timeline mini-game:** Users explore a career/story timeline with milestones, branching by role
 - **Project/Product:** Dynamic list and detail, filtered by user role (job-fit, business, creativity)
 - **Blog:** Articles and insights, beautiful and readable
@@ -27,7 +27,7 @@ A gamified, story-driven, and fully personalized portfolio website for [Quan Ngu
 
 ---
 
-## › ?¸? Main Features
+## Main Features
 
 - [x] Animated storytelling intro
 - [x] Role selector for tailored user flow
@@ -42,7 +42,7 @@ A gamified, story-driven, and fully personalized portfolio website for [Quan Ngu
 
 ---
 
-## “… Timeline & Planning
+## Timeline & Planning
 
 - **Kick-off:** 15/10/2025
 - **MVP Release:** 15/12/2025
@@ -52,36 +52,36 @@ See [Planning.md](./docs/.business/Planning.md) for details.
 
 ---
 
-## š€ Demo
+## Demo
 
 [https://muslunar.com](https://muslunar.com)
 
 ---
 
-## —?¸? Tech Stack
+## Tech Stack
 
 - **Frontend:** React (Next.js), TailwindCSS, Framer Motion
-- **Backend:** (Optional, for shop/AI/chatbot): Node.js/Express, or Serverless (Vercel/Netlify Functions)
+- **Backend:** (Optional, for shop/AI/chatbot): TDB
 - **Hosting:** Vercel, Netlify
 - **Tools:** Figma (UI/UX), Notion (docs/task), Excalidraw/Mermaid (diagram), AI (content/gen)
 
 ---
 
-## ‘¥ Authors
+## Authors
 
-- **Quan Nguyen** â€? Developer
-- **Nguyet Nguyen** â€? Designer
+- **Quan Nguyen** Developer
+- **Nguyet Nguyen** Designer
 
 ---
 
-## “„ Documentation
+## Documentation
 
-### “˜ Business & Requirement
+### Business & Requirement
 - [Planning.md](./docs/.business/Planning.md)
 - [Requirements.md](./docs/.business/Requirements.md)
 - [Role_based_ux.md](./docs/.business/Role_based_ux.md)
 
-### §? Agile & Scrum
+### Agile & Scrum
 - [Agile_Overview.md](./docs/.agileScrum/Agile_Overview.md)
 - [ProjectCharter.md](./docs/.agileScrum/ProjectCharter.md)
 - [Definition_of_Ready.md](./docs/.agileScrum/Definition_of_Ready.md)
@@ -89,13 +89,13 @@ See [Planning.md](./docs/.business/Planning.md) for details.
 - [RTM.md](./docs/.agileScrum/RTM.md)
 - [KPIs_Summary.md](./docs/.agileScrum/KPIs_Summary.md)
 
-### §© Technical
+### Technical
 - [Design.md](./docs/.technical/Design.md)
 - [Deployment.md](./docs/.technical/Deployment.md)
 
-### ’¬ General
+### General
 - [FAQ.md](./docs/FAQ.md)
 
 ---
 
-> *MusLunar Portfolio is not just a CV â€? itâ€™s a creative playground, a dual-brand metaverse, and an ongoing story of two passionate makers.*
+> *MusLunar Portfolio is not just a CV? itâ€™s a creative playground, a dual-brand metaverse, and an ongoing story of two passionate makers.*
