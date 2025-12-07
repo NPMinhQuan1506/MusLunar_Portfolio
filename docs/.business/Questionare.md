@@ -1,381 +1,161 @@
-
-
 # What do I want in this product?
 
-**Goal:** *Help you deeply ask yourself, in every aspect*
+**Goal:** Help me interrogate my needs and goals from every angle.
 
 ---
 
-# **1. Identifying Needs**
+# 1. Identifying Needs
 
-### **WH-Questions**
+### WH-Questions
+- **What is the problem or situation I am facing?**  
+  There is no place to show my skills, showcase projects, or connect with customers and recruiters.
+- **What do I really need or want in this context?**  
+  I want a website that:  
+  - Tells my story and wins admiration (personal brand).  
+  - Impresses recruiters so I can land a dream job (target: 100M VND).  
+  - Convinces customers to hire me (freelancer target).
+- **Why am I interested in this problem/issue?**  
+  It is required for my career goals and freelancing path.
+- **Who else is involved or affected?**  
+  Me, and my family if the portfolio is missing or weak.
 
-* **What is the problem or situation I am facing?**
-
-  (What issue or situation am I encountering?)
-
-  Ans: There is no place to show off my skills, showcase my projects, or connect with customers and recruiters.
-
-* **What do I really need or want in this context?**
-
-  (What do I truly need or want in this situation?)
-  I want a website that satisfies three criteria:
-
-  * I can tell my story and get praise and admiration → Personal Mark
-  * Recruiters can be impressed by me, and I can get my dream job (high salary, 100 million VND) → Job target
-  * Customers can see my abilities and choose me for their projects → Freelancer target
-
-* **Why am I interested in this problem/issue?**
-
-  (Why do I care about this issue?)
-
-  * Because it’s needed for my career goals and for becoming a freelancer
-
-* **Who else is involved or affected?**
-
-  (Who else is involved/affected?)
-
-  * I am involved and affected
-  * My family is affected if the portfolio doesn’t exist or isn’t good enough, which could mean not getting the jobs I want or having no alternative income stream
-
-### **Yes/No Questions**
-
-* **Is this need genuine or just temporary?**
-
-  (Is this a real need or just a fleeting one?)
-
-  * This need is real, and it’s a stepping stone for personal branding in the future
-
-* **Do I fully understand what I need?**
-
-  (Do I fully understand what I need?)
-
-  * Yes, I do:
-
-    * I need a unique portfolio website (3D, AI, multiverse style switching between different “planets”), for telling my personal story, showing off skills, and branding
-    * The portfolio should showcase both me and my wife (developer and designer), with character separation in the layout
-    * It must let viewers (recruiters, clients, etc.) see products and skills, and personalize the story depending on who is viewing (dynamic, not static)
-    * The site must immediately show what’s unique and impressive to retain viewers
-    * Must follow product criteria (UI/UX, performance, responsiveness)
-
-* **Can I clearly state my need in one sentence?**
-
-  (Can I clearly state my need in one sentence?)
-
-  * I want a website that tells the story of my and my wife’s (dev and UI/UX designer) skills, products, and journey in a unique, modern style
+### Yes/No Questions
+- **Is this need genuine or just temporary?** Real and foundational for personal branding.
+- **Do I fully understand what I need?** Yes: a unique portfolio (3D/AI/multiverse style) that shows both me and my wife, adapts to visitors, and highlights uniqueness immediately with strong UI/UX/performance.
+- **Can I clearly state my need in one sentence?**  
+  I want a site that tells the story of my (dev) and my wife's (UI/UX) skills, products, and journey in a unique, modern style.
 
 ---
 
-# **2. Goals & Expectations**
+# 2. Goals & Expectations
 
-### **WH-Questions**
+### WH-Questions
+- **What is my ultimate goal or outcome?** Attract viewers (customers, recruiters) and show who we are and what we have.
+- **Why is this goal important to me?** It impacts income and opportunities; income is a tool for long-term happiness.
+- **How will I measure success?** Viewers, shares, interactions.
+- **When do I expect to achieve this goal?** MVP 31/12/2025 (kick-off 04/12/2025); full feature 27/03/2026; admin 30/04/2026.
+- **Who will notice if I succeed?** Family, community, customers, recruiters.
 
-* **What is my ultimate goal or outcome?**
-
-  (What’s my ultimate result or biggest goal?)
-
-  * To attract viewers (customers, recruiters, etc.), and show who we are and what we have
-
-* **Why is this goal important to me?**
-
-  (Why is this goal important to me?)
-
-  * Because it affects my income and earning opportunities. Income is a tool to build lifelong happiness
-
-* **How will I measure success?**
-
-  (How will I measure success?)
-
-  * By tracking the number of viewers, shares, and interactions with the website
-
-* **When do I expect to achieve this goal?**
-
-  (When do I want to achieve this goal?)
-
-  * 1.5 months to build the website with basic functions and deploy it successfully (Due date: 30/10/2025), next 3.5 months to complete full app features (20/03/2025)
-
-* **Who will notice if I succeed?**
-
-  (Who will notice/reward my success?)
-
-  * My family and community will notice my personal brand, customers and recruiters will see if I fit their needs
-
-### **Yes/No Questions**
-
-* **Is my goal specific and realistic?**
-
-  (Is my goal specific and realistic?)
-
-  * Very specific, some features may be challenging, but still manageable
-
-* **Do I have clear expectations of the outcome?**
-
-  (Do I have a clear expectation of the result?)
-
-  * Yes, very clear:
-    The “happy path” is completing >85% of features, making an impression on customers, and getting the first client with a goal of 20 million VND
-    The “worst path” is the project being delayed, dropping impractical features, or the website failing to attract clients to recoup costs
-
-* **Will achieving this goal make me truly happy/satisfied?**
-
-  (Will achieving this goal really satisfy me?)
-
-  * Yes, it will make me happy and confident, reinforcing my self-esteem and career opportunities
+### Yes/No Questions
+- **Is my goal specific and realistic?** Yes; some features are challenging but manageable.
+- **Do I have clear expectations of the outcome?** Yes:  
+  - Happy path: >85% features, impress customers, first client worth ~20M VND.  
+  - Worst path: delays, drop impractical features, or poor traction.
+- **Will achieving this goal make me happy/satisfied?** Yes; it boosts confidence and opportunities.
 
 ---
 
-# **3. Deeper Motivation & Core Values**
+# 3. Deeper Motivation & Core Values
 
-### **WH-Questions**
+### WH-Questions
+- **Why do I truly want to achieve this goal?** Prove myself, build brand, get dream job, attract clients, foundation for future business.
+- **What value or meaning does this bring?** More income opportunities, progress toward goals, higher confidence.
+- **How does this align with my values?** Strong alignment.
+- **Who inspires me?** Family.
 
-* **Why do I truly want to achieve this goal?**
-
-  (Why do I really want to achieve this?)
-
-  * To prove myself and build a personal brand
-  * To serve as a tool for getting my dream job and attracting clients
-  * To lay a foundation for future business
-
-* **What value or meaning does this bring to my life?**
-
-  (What value/meaning does this bring to my life?)
-
-  * More opportunities to increase income
-  * One step toward my personal goals
-  * Boosts my self-confidence
-
-* **How does this align with my personal values?**
-
-  (Does this align with my personal values?)
-
-  * It does, very much so
-
-* **Who inspires me in this journey?**
-
-  (Who inspires me on this journey?)
-
-  * My family
-
-### **Yes/No Questions**
-
-* **Is this goal aligned with my core values?**
-
-  (Is this goal aligned with my core values?)
-
-  * Yes
-
-* **Do I feel a strong internal motivation, or just external pressure?**
-
-  (Do I have strong internal motivation, or is it just external pressure?)
-
-  * Half and half, but I will commit to completing it no matter what
+### Yes/No Questions
+- **Is this aligned with my core values?** Yes.
+- **Do I feel strong internal motivation (vs external pressure)?** Mixed, but I will commit to finish.
 
 ---
 
-# **4. Commitment & Resources**
+# 4. Commitment & Resources
 
-### **WH-Questions**
+### WH-Questions
+- **How much time/energy/resources can I commit?** ~9h/week: 9-10PM Mon-Fri, 12-2PM Sat/Sun; 3M VND/year budget.
+- **What skills or support do I need?** AI support; designer partner.
+- **Where can I find the resources?** Freelance/small jobs.
+- **When can I start, and how to stay consistent?** Start 04/12/2025; penalty 50K VND per missed day.
 
-* **How much time, energy, or resources can I commit to this?**
-
-  (How much time, effort, and resources can I devote?)
-
-  * About 9 hours per week, fixed: 9PM–10PM (Mon–Fri) and 12PM–2PM (Sat & Sun). Weekdays after regular work (average energy), weekends with higher energy. Financial resources: 3 million VND/year, but I need to earn more to cover this cost
-
-* **What skills or support do I need?**
-
-  (What skills/support do I need?)
-
-  * Need AI support and my girlfriend (designer) to help
-
-* **Where can I find the resources I need?**
-
-  (Where can I find needed resources?)
-
-  * Freelance sources, small jobs
-
-* **When can I start, and how will I stay consistent?**
-
-  (When will I start, and how will I maintain consistency?)
-
-  * From 21/09/2025, commit to the schedule, with a penalty of 50,000 VND for each missed day
-
-### **Yes/No Questions**
-
-* **Can I realistically commit to this goal?**
-
-  (Can I truly commit to this goal?)
-
-  * Yes, I can
-
-* **Do I have enough resources/support?**
-
-  (Do I have enough resources/support?)
-
-  * Probability is about 60%
-
-* **Will I be able to overcome obstacles along the way?**
-
-  (Will I be able to overcome challenges?)
-
-  * Most likely, yes
+### Yes/No Questions
+- **Can I realistically commit?** Yes.
+- **Do I have enough resources/support?** ~60% confidence.
+- **Will I overcome obstacles?** Likely yes.
 
 ---
 
-# **5. Long-term Impact**
+# 5. Long-term Impact
 
-### **WH-Questions**
+### WH-Questions
+- **How will achieving this affect my future?** Builds foundation for future products.
+- **What will I do after reaching this goal?** Phase 2: update content, projects, background.
+- **Which areas of my life will this impact?** Some personal time impact.
+- **Who else benefits long term?** Family and partner.
 
-* **How will achieving this affect my future?**
-
-  (How will achieving this goal affect my future?)
-
-  * It lays the foundation for future products
-
-* **What will I do after reaching this goal?**
-
-  (What will I do after achieving this?)
-
-  * Move to phase 2: updating the website’s content, projects, background
-
-* **Which other areas of my life will this impact?**
-
-  (What other areas of my life will be affected?)
-
-  * A little, since I’ll have to devote extra time
-
-* **Who else might benefit (or be affected) in the long run?**
-
-  (Who else will benefit/be affected in the long run?)
-
-  * Family and my girlfriend will benefit
-
-### **Yes/No Questions**
-
-* **Is this goal sustainable over time?**
-
-  (Is this goal sustainable?)
-
-  * Yes, it is
-
-* **Will it open up new opportunities for me?**
-
-  (Will it open up new opportunities?)
-
-  * Yes, it will create new job and income streams
-
-* **Do the long-term benefits outweigh the costs/risks?**
-
-  (Do the long-term benefits outweigh the costs/risks?)
-
-  * Costs are 3–5 million/year, 9h/week = 432h/year → opportunity cost is 60–86 million
+### Yes/No Questions
+- **Is this goal sustainable over time?** Yes.
+- **Will it open new opportunities?** Yes: jobs and income streams.
+- **Do long-term benefits outweigh costs/risks?** Yes; costs 3-5M/year and 9h/week (~432h) with opportunity cost 60-86M.
 
 ---
 
-## 1. **Summary of Costs and Risks**
+## 1. Summary of Costs and Risks
 
-### **Actual Costs**
+### Actual Costs
+- Hosting/domain/services: 3-5M VND/year.
+- Time: 9h/week x 48 weeks = 432h/year; opportunity cost ~60-86M VND.
+- Total per year: cash 3-5M; time-valued 60-86M; combined ~63-91M VND.
 
-* **Hosting, domain, services:** 3–5 million VND/year (fixed, mandatory costs for a professional portfolio)
-* **Time investment:** 9h/week × 48 weeks ≈ **432h/year**
-  → **Opportunity cost:** \~60–86 million (depending on how you value your time)
-
-#### **Total cost/year:**
-
-* Cash: **3–5 million**
-* Time converted to money: **60–86 million**
-* **Actual total investment:** \~63–91 million/year
-
-### **Risks**
-
-* Not fully utilizing time, portfolio built but nobody sees it, fails to generate clients/jobs
-* Effort put in but portfolio isn’t attractive enough or doesn’t fit the market, fails to sell your abilities
-* Many competitors, need to constantly update & improve
-* Investment won’t pay off if there’s no clear direction
+### Risks
+- Time not fully used; portfolio unseen; no clients/jobs.
+- Portfolio not attractive or market-fit; fails to convert.
+- Strong competition; need ongoing updates.
+- Investment may not pay off without clear direction.
 
 ---
 
-## 2. **Long-term Benefits**
+## 2. Long-term Benefits
 
-### **a) Higher chance of landing a good job**
+### Higher chance of landing a good job
+- Personalized portfolio with real projects and product mindset stands out; improves screening and interview chances; supports higher salary.
 
-* Recruiters love candidates with a personalized portfolio, showing real projects, contributions, practical skills, and product mindset
-* A good portfolio helps you pass CV screening at many large companies (because it’s outstanding, visual, and easy to assess)
-* Increases chances of interview calls, and offers for higher salaries (because you prove your value, not just claim it on your CV)
+### More freelance/remote opportunities
+- Portfolio required for big projects (Upwork, LinkedIn, Behance, GitHub); can yield 1-2 side jobs/year.
 
-### **b) More freelance/remote job opportunities**
+### Personal brand and career growth
+- Builds industry impression and network; can lead to training, mentoring, consulting, lead roles; may evolve into products/services.
 
-* Clients and agencies often require a portfolio for big projects, especially in overseas markets (Upwork, LinkedIn, Behance, GitHub, etc.)
-* A great portfolio gets you more cooperation offers and lets you pick up 1–2 side jobs/year (each worth several to tens of millions)
+### Skill development
+- Improves UI/UX, writing, SEO, DevOps, PM, CI/CD, deployment, cloud.
 
-### **c) Builds personal brand and long-term career development**
-
-* Makes a personal impression in the industry, helps you build a professional network
-* Leads to opportunities like training, mentoring, consulting, even CTO/lead roles
-* Can turn into your own product/service (blog for money, opening courses, selling plugins/services, etc.)
-
-### **d) Skill development**
-
-* Building a portfolio sharpens your UI/UX, content writing, SEO, DevOps, and even mini-project management skills
-* Many devs improve product thinking, coding, CI/CD, deployment, cloud skills after building their portfolio
-
-### **e) Proactively choosing and negotiating your own value**
-
-* With a portfolio, you “lead the game”: recruiters/clients contact you, not the other way around like with mass CV applications
-* You can “raise” your job/salary deal to match your true market value, boosting your confidence and negotiation
+### Control and negotiation power
+- Inbound interest lets you lead the game and negotiate value with confidence.
 
 ---
 
-## 3. **Cost–Benefit Analysis**
+## 3. Cost-Benefit Analysis
 
-### **Benefit–Cost Comparison**
+### Average success
+- 1 small freelance job: ~10M.
+- Better full-time job: +3M/month = 36M/year.
+- Intangible brand/learning upside.
+- Minimum benefit after 1 year: ~46M (cash only).
 
-#### **A. “Average Success” Scenario**
+### Outstanding success
+- 2-3 freelance jobs: 30-60M/year.
+- Job hop or promotion: +60-100M/year.
+- Brand/network value: high upside.
 
-* 1 small freelance job/year: \~10 million
-* 1 better full-time job: salary increase \~3 million/month = 36 million/year
-* Learning new skills, building personal brand (hard to quantify, but a big intangible asset)
-
-**Minimum total benefit after 1 year:**
-
-> 10 million (freelance) + 36 million (full-time) = **46 million**
-> (not including intangible benefits & further opportunities)
-
-#### **B. “Outstanding Success” Scenario**
-
-* 2–3 freelance jobs: 30–60 million/year
-* Job-hopping with big salary increases, or promotion to lead: +60–100 million/year
-* Building a personal brand, growing your network → long-term value “incalculable”
-
-**Total benefit:**
-
-> 50–150 million++/year (could be even more if fully leveraged)
-
-#### **C. “Failure” Scenario**
-
-* No new jobs, no freelance work, only new skills/experience gained
-* Lost 3–5 million + opportunity cost
-* But can still use the experience and reinvest next year
+### Failure scenario
+- No jobs; only skills gained.
+- Loss: 3-5M + opportunity cost.
+- Experience can be reused next year.
 
 ---
 
-## 4. **Conclusion**
-
-### **Do the long-term benefits outweigh the costs/risks?**
-
-* **YES (very clear!)**
-* Even if you can’t recoup all costs in the first year, **accumulated value, personal brand, skills, and network** will repay you many times over in the long run
-* If you take it seriously, “breaking even” or even making a profit in the first year is totally realistic
+## 4. Conclusion
+- Long-term benefits clearly outweigh costs/risks.
+- Even without full payback in year one, accumulated brand/skills/network repay over time.
+- Breaking even or profiting in year one is realistic with focus.
 
 ---
 
-## **Sample Summary Table**
+## Sample Summary Table
 
-| Major Area                 | Key WH-Questions                                    | Key Yes/No Questions                       |
-| -------------------------- | --------------------------------------------------- | ------------------------------------------ |
-| **Identifying Needs**      | What do I need? Why? Who else?                      | Is this real? Do I know clearly?           |
-| **Goals & Expectations**   | What goal? Why important? How measure? When?        | Is goal realistic? Will it satisfy me?     |
-| **Deeper Motivation**      | Why truly want? What meaning? How values align?     | Is this my core value? Internal/external?  |
-| **Commitment & Resources** | How much can I commit? What skills? Where resource? | Can I commit? Have enough resources?       |
-| **Long-term Impact**       | How impact future? What next? Which area affected?  | Is it sustainable? Will it open new doors? |
-
+| Major Area                 | Key WH-Questions                                   | Key Yes/No Questions                     |
+| -------------------------- | -------------------------------------------------- | ---------------------------------------- |
+| Identifying Needs          | What do I need? Why? Who else?                     | Is this real? Do I know clearly?         |
+| Goals & Expectations       | What goal? Why important? How measure? When?       | Is goal realistic? Will it satisfy me?   |
+| Deeper Motivation          | Why truly want? What meaning? How values align?    | Is this core value? Internal vs external |
+| Commitment & Resources     | How much commit? What skills? Where resources?     | Can I commit? Have enough resources?     |
+| Long-term Impact           | How impact future? What next? Which areas affected?| Is it sustainable? Open new doors?       |
