@@ -14,14 +14,14 @@ MusLunar is a dual-protagonist portfolio platform merging high-end storytelling,
 
 The core philosophy is **"Pragmatic Engineering"**: Using a Monolithic approach for development speed, but structured internally with Modules to allow seamless transition to Microservices if required in the future.
 
----
+--- 
 
 ## 2. System Design: Hybrid Modular Monolith
 
 We utilize a **Hybrid Deployment Strategy** to leverage the best of Serverless (Frontend) and Containerized (Backend) worlds.
 
 ### High-Level Architecture Diagram
-
+![MusLunar_C4Diagram](MusLunar_C4Diagram.png)
 ```mermaid
 graph TD
     User[End User] -->|HTTPS| Vercel[Frontend: Next.js on Vercel Edge]
@@ -38,6 +38,84 @@ graph TD
         GoApp -->|Storage API| GDrive[Google Drive: Large Assets/Zips]
     end
 ```
+
+---
+
+## 2.1 C4 Diagrams (Level 1 and 2)
+
+### Level 1: System Context
+![MusLunar_C4Diagram_L1.png](MusLunar_C4Diagram_L1.png)
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart LR
+    subgraph People
+        R[Recruiter]
+        C[Client]
+        V[Viewer/Guest]
+        A[Admin Quan/Nguyet]
+    end
+
+    System[MusLunar Portfolio System - Frontend + Backend]
+
+    R -->|browse, search, contact| System
+    C -->|view services, request quote| System
+    V -->|explore, read, play| System
+    A -->|manage content/deploy| System
+
+    System -->|read/write data| Supabase[Supabase Postgres]
+    System -->|serve images| Cloudinary[Cloudinary CDN]
+    System -->|large asset fetch| GDrive[Google Drive Assets]
+```
+
+### Level 2: Container Diagram
+![MusLunar_C4Diagram_L2.png](MusLunar_C4Diagram_L2.png)
+
+```mermaid
+---
+config:
+  theme: redux
+---
+flowchart TB
+    subgraph Users
+        UserR[Recruiter]
+        UserC[Client]
+        UserV[Viewer]
+    end
+
+    subgraph Vercel
+        FE[Next.js Frontend Edge/SSR App Router + Role-aware UI]
+    end
+
+    subgraph VPS["VPS (Ubuntu 22.04)"]
+        Nginx[nginx Reverse Proxy TLS, gzip, routing]
+        GoApp[Go Monolith Container Echo Clean Architecture modules]
+    end
+
+    subgraph Managed["Managed Services"]
+        Supabase[Supabase Postgres Auth/DB/Realtime]
+        Cloudinary[Cloudinary CDN Optimized images]
+        GDrive[Google DriveLarge downloads/backups]
+    end
+
+    UserR -->|HTTPS| FE
+    UserC -->|HTTPS| FE
+    UserV -->|HTTPS| FE
+
+    FE -->|API calls| Nginx
+    Nginx -->|proxy :8080| GoApp
+
+    GoApp -->|SQL :5432| Supabase
+    GoApp -->|fetch/store assets| GDrive
+    GoApp -->|image delivery URLs| Cloudinary
+    FE -->|consume CDN images| Cloudinary
+```
+
+Notes:
+- Frontend runs on Vercel Edge; backend is a single Go container behind nginx on the VPS.
+- Supabase hosts Postgres and optional auth; Cloudinary serves optimized media; Google Drive stores large digital products/backups.
 
 ---
 
@@ -64,11 +142,11 @@ We enforce a strict dependency rule: *Inner layers (Entities) know nothing about
 *   **Structure:**
     ```text
     internal/
-      „¥„Ÿ„Ÿ shop/                # Module Name
-      „    „¥„Ÿ„Ÿ delivery/        # Transport Layer (HTTP Handlers/Echo)
-      „    „¥„Ÿ„Ÿ usecase/         # Business Logic (Pure Go)
-      „    „¤„Ÿ„Ÿ repository/      # Data Access (Sqlc/Postgres)
-      „¥„Ÿ„Ÿ user/                # Another Module...
+      |- shop/                # Module Name
+      |  |- delivery/         # Transport Layer (HTTP Handlers/Echo)
+      |  |- usecase/          # Business Logic (Pure Go)
+      |  \- repository/       # Data Access (Sqlc/Postgres)
+      |- user/                # Another Module...
     ```
 
 *   **Why?**

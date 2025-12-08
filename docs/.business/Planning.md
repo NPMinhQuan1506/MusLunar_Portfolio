@@ -1,17 +1,5 @@
-﻿Dưới đây là file `Planning.md` đã được làm mới hoàn toàn.
-
-**Những thay đổi chính:**
-1.  **Cập nhật mốc thời gian:** Bắt đầu Code (Develop) vào **08/12 (Thứ Hai)**.
-2.  **Thêm Phase 0:** Dành riêng cho ngày hôm nay (07/12) để chốt tài liệu và setup hạ tầng.
-3.  **Chi tiết hóa kỹ thuật:** Thay vì chung chung, plan này nhắc đến việc setup VPS, Docker, Supabase, và cấu trúc Modular Monolith.
-4.  **Công cụ quản lý:** Xác định rõ dùng **Notion** làm nơi quản lý Task (như đã chốt).
-
----
-
-## File: `docs/business/Planning.md`
-
-```markdown
-# Planning.md – MusLunar Portfolio Development Plan
+﻿
+# MusLunar Portfolio Development Plan
 
 ## 1. Summary
 
@@ -168,4 +156,3 @@ We prioritize **speed and adaptability**. No rigid Sprints, but clear Milestones
 | **31/12/2025** | **MVP Launch** | Site Live (Home, Projects, Contact, Basic Auth). |
 | **27/03/2026** | **Full Release** | Shop, 3D Game, Blog, AI. |
 | **30/04/2026** | **Admin CMS** | Complete Management Dashboard. |
-```

@@ -16,25 +16,25 @@ Creative site, but flows and content are personalized by role to avoid confusing
 
 ## 2. UX/Flow Solution
 ### Role selection (landing/intro)
-- Ask once: “Who are you? This helps us personalize your experience.”
-- Buttons: Recruiter (“See profile, experience, projects”), Client (“See team, products, services”), Just Exploring (“Discover the MusLunar universe”).
-- Note: “You can change your choice anytime from the menu.” Persist via localStorage/state.
+- Ask once: "Who are you? This helps us personalize your experience."
+- Buttons: Recruiter ("See profile, experience, projects"), Client ("See team, products, services"), Just Exploring ("Discover the MusLunar universe").
+- Note: "You can change your choice anytime from the menu." Persist via localStorage/state.
 
 ### After role selection
 #### A. Client
 - Landing: value/credibility, clean layout.
-- Section 1: Who are we? (team profile, experience, values, testimonials). CTAs: “See similar products”, “Request quote”.
-- Section 2: Products/portfolio filtered to business-relevant work; 2–3 case studies (problem/solution/result).
+- Section 1: Who are we? (team profile, experience, values, testimonials). CTAs: "See similar products", "Request quote".
+- Section 2: Products/portfolio filtered to business-relevant work; 2-3 case studies (problem/solution/result).
 - Section 3: Workflow/guarantees (speed, on-time, aftercare).
 - Section 4: Contact/quote CTA.
 - Minimize long timeline or heavy animation; link out if needed.
 
 #### B. Recruiter
-- Landing: concise about (Quan Dev / Nguyet Designer), skills/stack table, CTAs: “Download CV”, “Book interview”, “See top projects”.
+- Landing: concise about (Quan Dev / Nguyet Designer), skills/stack table, CTAs: "Download CV", "Book interview", "See top projects".
 - Section 2: Timeline of key milestones (compact).
-- Section 3: Projects auto-filtered to role; 3–5 highlights with code/demo/dribbble links.
+- Section 3: Projects auto-filtered to role; 3-5 highlights with code/demo/dribbble links.
 - Section 4: Contact/CV download.
-- Hide/minimize shop/art/fun unless a “See creative side” link is clicked.
+- Hide/minimize shop/art/fun unless a "See creative side" link is clicked.
 
 #### C. Viewer
 - Full exploration: colorful UI, more animation, all dev + design content, theme switching, blend personas for fun.
@@ -42,7 +42,7 @@ Creative site, but flows and content are personalized by role to avoid confusing
 ---
 
 ## 3. Navigation
-- Always show “Viewing as: <Role> | Switch role”.
+- Always show "Viewing as: <Role> | Switch role".
 - Clear shortcuts per role:
   - Recruiter: About | Skills | Timeline | Projects | Download CV | Contact
   - Client: Team | Services | Products | Pricing | Request Quote
@@ -54,12 +54,12 @@ Creative site, but flows and content are personalized by role to avoid confusing
 - Role auto-focuses content:
   - Recruiter: choose Quan or Nguyet focus, or teamwork if relevant.
   - Client: default to whole team with outcomes.
-- Show only relevant sections; keep an optional “See more creative/team side” link.
+- Show only relevant sections; keep an optional "See more creative/team side" link.
 
 ---
 
 ## 5. Flow Summary
-- Landing/Intro: animation + dual avatar -> “Who are you?” -> route to role page.
+- Landing/Intro: animation + dual avatar -> "Who are you?" -> route to role page.
 - Layout differs by role:
   - Recruiter: about, skills, timeline, projects, contact.
   - Client: team, services, products, case studies, contact.

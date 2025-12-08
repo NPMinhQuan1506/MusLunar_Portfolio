@@ -9,11 +9,11 @@ Base path: `/api/v1`
 - Errors: `{ "error": { "code": "string", "message": "string" } }`.
 
 ## Public Content
-- `GET /projects` → list (query: `role`, `locale`, `tag`, `status=published`).
-- `GET /projects/:slug` → detail.
-- `GET /timeline` → list entries (query: `role`, `locale`).
-- `GET /blog` → list (query: `locale`, `tag`); `GET /blog/:slug`.
-- `GET /products` → list published products; `GET /products/:slug`.
+- `GET /projects` -> list (query: `role`, `locale`, `tag`, `status=published`).
+- `GET /projects/:slug` -> detail.
+- `GET /timeline` -> list entries (query: `role`, `locale`).
+- `GET /blog` -> list (query: `locale`, `tag`); `GET /blog/:slug`.
+- `GET /products` -> list published products; `GET /products/:slug`.
 
 ## Interactions
 - `POST /contact`
