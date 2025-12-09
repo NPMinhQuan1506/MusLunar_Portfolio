@@ -2,7 +2,7 @@ package project
 
 import "errors"
 
-// Common project domain errors.
+// Domain-level errors.
 var (
 	ErrNotFound = errors.New("project not found")
 )

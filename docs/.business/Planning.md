@@ -7,7 +7,7 @@
 
 **Method:** Agile Iterative (Kanban)  
 **Management Tool:** Notion  
-**Team:** 1 Developer (Quân), 1 Designer (Nguyet)  
+**Team:** 1 Developer (Quan), 1 Designer (Nguyet)  
 **Docs Completion:** 07/12/2025  
 **Development Kick-off:** 08/12/2025 (Monday)
 

@@ -1,6 +1,6 @@
 package contact
 
-// Message represents a contact submission in the domain layer.
+// Message represents an inbound contact submission.
 type Message struct {
 	Name    string
 	Email   string

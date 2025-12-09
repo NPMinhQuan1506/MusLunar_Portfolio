@@ -10,6 +10,35 @@ Clean-Architecture-aligned Go backend (Echo) matching Architecture.md: Go monoli
 - `/internal/infrastructure`: implementations (config loader, in-memory repositories; replace with sqlc/Postgres).
 - `/pkg`: reserved for shared libraries (none yet).
 
+## Source tree
+```text
+MusLunarAPI/
+|-- cmd/
+|   `-- api/
+|       `-- main.go                 # bootstrap API server
+|-- internal/
+|   |-- domain/
+|   |   |-- contact/entity.go       # contact aggregate root
+|   |   `-- project/                # project entity + errors
+|   |       |-- entity.go
+|   |       `-- errors.go
+|   |-- infrastructure/
+|   |   |-- config/config.go        # env/config loading
+|   |   `-- repository/project_memory.go  # in-memory repo impl
+|   |-- interface/httpserver/
+|   |   |-- handlers.go             # Echo handlers/adapters
+|   |   `-- router.go               # routes + middleware wiring
+|   |-- usecase/
+|       |-- contact/interactor.go   # contact usecase
+|       `-- project/                # project usecases + DTO
+|           |-- dto.go
+|           `-- interactor.go
+|-- .env.example
+|-- go.mod
+|-- go.sum
+`-- README.md
+```
+
 ## Features (scaffold)
 - Health/version endpoints.
 - Projects list/detail with role/locale filter (in-memory seed).
