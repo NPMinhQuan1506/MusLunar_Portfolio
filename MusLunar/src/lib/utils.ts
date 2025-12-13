@@ -1,4 +1,7 @@
-// Simple className helper (Shadcn style).
-export function cn(...classes: Array<string | undefined | null | false>) {
-  return classes.filter(Boolean).join(" ");
+import { type ClassValue, clsx } from "clsx";
+import { twMerge } from "tailwind-merge";
+
+// Tailwind-friendly class merge helper.
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
 }

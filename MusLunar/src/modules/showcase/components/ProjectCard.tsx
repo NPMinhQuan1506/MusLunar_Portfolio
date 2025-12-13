@@ -1,3 +1,4 @@
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import type { Project } from "../types";
 
 type Props = {
@@ -6,11 +7,16 @@ type Props = {
 
 export function ProjectCard({ project }: Props) {
   return (
-    <article style={{ border: "1px solid #1f2937", borderRadius: 8, padding: 16, background: "#111827" }}>
-      <p style={{ color: "#9ca3af", margin: 0 }}>{project.role_focus}</p>
-      <h3 style={{ margin: "4px 0" }}>{project.title}</h3>
-      <p style={{ color: "#cbd5e1" }}>{project.summary}</p>
-      <small style={{ color: "#7dd3fc" }}>{project.slug}</small>
-    </article>
+    <Card className="h-full border-border/70 bg-card/80 backdrop-blur">
+      <CardHeader className="pb-3">
+        <p className="text-xs uppercase tracking-wide text-muted-foreground">{project.role_focus}</p>
+        <CardTitle className="text-xl">{project.title}</CardTitle>
+        <CardDescription>{project.summary}</CardDescription>
+      </CardHeader>
+      <CardContent className="pt-0 text-xs text-muted-foreground flex items-center justify-between">
+        <span className="font-mono text-muted-foreground/80">/{project.slug}</span>
+        <span className="text-primary">View detail</span>
+      </CardContent>
+    </Card>
   );
 }
